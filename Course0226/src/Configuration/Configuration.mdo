@@ -52,5 +52,6 @@
   <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.КадровоеПеремещение</documents>
   <documents>Document.ПеремещениеПоСкладам</documents>
+  <informationRegisters>InformationRegister.КадроваяИстория</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>

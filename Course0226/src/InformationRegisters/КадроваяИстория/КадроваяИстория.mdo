@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="47cb8a62-5802-40a9-8bbe-656d44d4b707">
+  <producedTypes>
+    <selectionType typeId="c5783402-ecb5-4506-8af2-0b3382ab77cd" valueTypeId="dc92b8d6-dab0-4c4f-9a65-b3451499e4cf"/>
+    <listType typeId="a83feedf-8996-404f-96ee-c1a57424705d" valueTypeId="f2bb67c7-96a9-4981-adec-68db5d2da722"/>
+    <managerType typeId="7eb81261-d095-4cfe-8f9c-6a2c7701556d" valueTypeId="5a0fbea3-35ac-4c56-baaf-79d81c7d64dc"/>
+    <recordSetType typeId="be3c9973-e481-47c2-b794-7146ce1b4852" valueTypeId="1fc80255-17ef-4044-9643-f15ceaed7749"/>
+    <recordKeyType typeId="1314f369-de18-4651-8e90-e4762bfdea8e" valueTypeId="33a16974-73fd-45aa-afe9-31f3483cca19"/>
+    <recordType typeId="578ea017-eaa1-41f4-b631-8a86bb5d38a5" valueTypeId="2977247c-8d8d-49ef-9256-de27abe8a199"/>
+    <recordManagerType typeId="9e7d80c4-9f2f-48f5-8411-e4cb35a41a6c" valueTypeId="7fa922c9-3474-4e9a-9488-a176bb490b57"/>
+  </producedTypes>
+  <name>КадроваяИстория</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кадровая история</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <dimensions uuid="d02cd71c-3026-4a17-827b-9f3e9eb62ac4">
+    <name>Измерение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Измерение</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
