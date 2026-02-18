@@ -47,8 +47,10 @@
   <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Физлица</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.КадровоеПеремещение</documents>
+  <documents>Document.ПеремещениеПоСкладам</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>
