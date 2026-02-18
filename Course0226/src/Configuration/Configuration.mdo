@@ -40,6 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
+  <commonModules>CommonModule.БСП</commonModules>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
