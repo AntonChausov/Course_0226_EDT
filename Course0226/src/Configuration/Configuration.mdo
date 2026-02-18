@@ -50,5 +50,6 @@
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.КадровоеПеремещение</documents>
+  <documents>Document.Увольнение</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
 </mdclass:Configuration>
