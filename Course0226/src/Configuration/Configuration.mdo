@@ -44,6 +44,9 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Производители</catalogs>
+  <catalogs>Catalog.Должности</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.КадровоеПеремещение</documents>
