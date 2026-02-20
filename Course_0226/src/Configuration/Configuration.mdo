@@ -13,7 +13,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Чаусов</vendor>
-  <version>1.0.1.1</version>
+  <version>1.0.2.1</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -39,5 +39,9 @@
   </languages>
   <catalogs>Catalog.Автомобили</catalogs>
   <catalogs>Catalog.Гаражи</catalogs>
+  <catalogs>Catalog.АЗС</catalogs>
   <documents>Document.ПутевойЛист</documents>
+  <documents>Document.ЗаправкаАвтомобиля</documents>
+  <documents>Document.ПокупкаТоплива</documents>
+  <accumulationRegisters>AccumulationRegister.Топливо</accumulationRegisters>
 </mdclass:Configuration>
